@@ -1797,46 +1797,6 @@
       "gender": "Nữ",
       "dateOfBirth": "1999-07-28",
       "numberProduct": 3
-    },
-    {
-      "id": "51",
-      "name": "KO",
-      "Email": "sizngu@gmail.com",
-      "Password": "Adichoidi123@",
-      "gender": "Nam",
-      "dateOfBirth": "1990-08-15",
-      "sdt": "0917928281",
-      "numberProduct": 0
-    },
-    {
-      "id": "dc40",
-      "name": "KT",
-      "Email": "mai@gmail.com",
-      "sdt": "0111111111",
-      "Password": "Mai123123@",
-      "gender": "Nữ",
-      "dateOfBirth": "1999-09-15",
-      "numberProduct": 0,
-      "fullName": "Mai Ngô",
-      "avatar": "",
-      "birthDay": "13",
-      "birthMonth": "10",
-      "birthYear": "1987"
-    },
-    {
-      "id": "7659",
-      "name": "Nguyễn Tiến",
-      "Email": "khaitien600@gmail.com",
-      "sdt": "0917222222",
-      "Password": "Adichoidi123@",
-      "gender": "Nam",
-      "dateOfBirth": "2004-08-15",
-      "numberProduct": 0,
-      "fullName": "Nguyễn Tiến",
-      "avatar": null,
-      "birthDay": "15",
-      "birthMonth": "8",
-      "birthYear": "2013"
     }
   ],
   "comments": [
@@ -6386,23 +6346,6 @@
     }
   ],
   "likeproduct": [
-    {
-      "id": "12f4",
-      "user_name": "Mai Ngô",
-      "id_SP": "3",
-      "date": "2025-05-09"
-    },
-    {
-      "id": "82c7",
-      "user_name": "Mai Ngô",
-      "id_SP": "14",
-      "date": "2025-05-09"
-    },
-    {
-      "id": "8bed",
-      "user_name": "Nguyễn Tiến",
-      "id_SP": "5",
-      "date": "2025-05-09"
-    }
+    
   ]
 }
