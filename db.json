@@ -6304,46 +6304,6 @@
     }
   ],
   "orders": [
-    {
-      "id": "DH1746818742343",
-      "orderCode": "1746818742343",
-      "date": "2025-05-09T19:25:42.343Z",
-      "items": [
-        {
-          "id": "19",
-          "name": "Kem chống nắng Biore UV Aqua Rich",
-          "price": 235000,
-          "image": "/img/San Pham/SP19.jpg",
-          "variant": "Xanh",
-          "discount": 20,
-          "quantity": 1,
-          "priceAfterDiscount": 188000
-        }
-      ],
-      "address": {
-        "name": "ad",
-        "phone": "12313131",
-        "city": "Tỉnh Quảng Ninh",
-        "district": "Thành phố Đông Triều",
-        "ward": "Phường Hồng Phong",
-        "address": "28/5add",
-        "isDefault": true
-      },
-      "note": "",
-      "delivery": {
-        "method": "standard",
-        "fee": 10000
-      },
-      "payment": {
-        "method": "COD",
-        "status": "pending"
-      },
-      "promo": null,
-      "subtotal": 235000,
-      "discount": 0,
-      "total": 245000,
-      "status": "new"
-    }
   ],
   "likeproduct": [
     
